@@ -1,5 +1,7 @@
 ### Hi, I'm Ron Patrick Ramas! 👋
 
+Just you average undergrad CS student from University of San Carlos..!
+
 <!--
 **MrChooey/MrChooey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
