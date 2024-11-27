@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide=css,html&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrChooey&layout=compact&hide=css,html&theme=radical)
