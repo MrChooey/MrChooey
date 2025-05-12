@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-🔭 I’m currently working on my Thesis<br>🌱 I’m currently learning React and Python<br>⚡ I'm looking to explore Psychology as a side hobby
+🔭 I’m currently in the middle of writing my Thesis<br>🌱 Currently learning React and Python<br>⚡ I like studying Psychology as a hobby
 
 
 ## 💻 Tech Stack:
