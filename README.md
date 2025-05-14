@@ -1,4 +1,4 @@
-## Hi, I'm Ron Patrick Ramas! 👋
+# Hi, I'm Ron Patrick Ramas! 👋
 
 Just your average college CS student from University of San Carlos..!
 
